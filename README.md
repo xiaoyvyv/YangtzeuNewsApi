@@ -7,7 +7,7 @@
 - 长江大学教务处新闻通知接口
 
 **请求URL：**
-- ` http://app.dreamfish.online/news `
+- ` http://api.xiaoyv.top/news `
 
 **请求方式：**
 - GET
